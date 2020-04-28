@@ -1,0 +1,26 @@
+{
+  "name": "checkpoint-3-node-burlin",
+  "version": "1.0.0",
+  "description": "For this exercise you have 4 hours ahead of you. This checkpoint is not an exam, it will allow us to validate your skills, so try to do it as much as possible on your side. This checkpoint is very consistent, if you can't do everything it doesn't matter, do your best;)",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WildCodeSchool/checkpoint-3-node-Burlin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WildCodeSchool/checkpoint-3-node-Burlin/issues"
+  },
+  "homepage": "https://github.com/WildCodeSchool/checkpoint-3-node-Burlin#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10",
+    "nodemon": "^2.0.3"
+  }
+}
